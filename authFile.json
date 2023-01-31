@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": {
+    "id": "00D7Q000001PHiwUAG",
+    "accessToken": "00D7Q000001PHiw!ARUAQP.N2RIBTKQ12tOtBwIVppEooGOAvMvkwgLzG4iOr9p5k.5rNMsBKbUw5SYyQx5B3jjTm9ke9N6xf9p1tYqrpak0c3Ll",
+    "instanceUrl": "https://cgi-43e-dev-ed.my.salesforce.com",
+    "username": "baila.toure@cgisfdc.com",
+    "clientId": "PlatformCLI",
+    "connectedStatus": "JwtAuthError",
+    "sfdxAuthUrl": "force://PlatformCLI::5Aep861yNl8cSWS3xUJKe_j3XgO5wAunzi1Ob18mHk0gypFg8FLOvkLxU4SFYWm.D0YrzhQhQb1RKiVDO5HmLE6@cgi-43e-dev-ed.my.salesforce.com",
+    "alias": "cigSfdcOrgDevHub"
+  },
+  "warnings": [
+    "unable to refresh auth for org",
+    "This command will expose sensitive information that allows for subsequent activity using your current authenticated session.\nSharing this information is equivalent to logging someone in under the current credential, resulting in unintended access and escalation of privilege.\nFor additional information, please review the authorization section of the https://developer.salesforce.com/docs/atlas.en-us.234.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_web_flow.htm"
+  ]
+}
